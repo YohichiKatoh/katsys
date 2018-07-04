@@ -97,7 +97,8 @@
                                 <td>JavaScript</td>
                             </tr>
                         </table>
-                        <p>フレームワークは、Yii,Laravel,CakePHPなどを使用。<br>
+                        <p>
+                            フレームワークは、Yii,Laravel,CakePHPなどを使用。<br>
                             新規システムの開発や、既存システムの改修なども行なっています。
                         </p>
                     </article>
