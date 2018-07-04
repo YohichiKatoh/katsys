@@ -59,6 +59,7 @@
                                 <td>C#</td>
                             </tr>
                         </table>
+                        <p>パッケージバージョン管理や機能開発、SDK開発など顧客サポートを対応。</p>
                     </article>
                 </div>
                 <div class="slide" id="slide2">
@@ -74,6 +75,10 @@
                                 <td>C#</td>
                             </tr>
                         </table>
+                        <p>
+                            金融業界で利用されているFIXプロトコルを使い<br>
+                            自動処理を組み込んだWindows向けアプリケーションを作成。
+                        </p>
                     </article>
                 </div>
                 <div class="slide" id="slide3">
@@ -92,6 +97,9 @@
                                 <td>JavaScript</td>
                             </tr>
                         </table>
+                        <p>フレームワークは、Yii,Laravel,CakePHPなどを使用。<br>
+                            新規システムの開発や、既存システムの改修なども行なっています。
+                        </p>
                     </article>
                 </div>
             </section>
@@ -107,7 +115,7 @@
                         手作業の日々から一転、日常を自動化させたいと考え、SEを目指す。<br>
                         2004年からSEとして、Windows系アプリケーションのパッケージ開発を11年間行う。<br>
                         2016年より"キャットシステムズ”を設立。<br>
-                        主に全業務を担当。
+                        全業務を担当。
                     </p>
                 </article>
                 <article>
