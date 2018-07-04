@@ -120,7 +120,7 @@
                     </p>
                 </article>
                 <article>
-                    <h1>とらきち</h1>
+                    <h1>とらキチ</h1>
                     <p>ねこ / キャットシステムズ　メインキャラクター</p>
                     <p>2016年より"キャットシステムズ"に参画。<br>
                         主に睡眠学習と、ストレスの軽減業務を担当。
@@ -131,7 +131,8 @@
 
         <div class="section" id="section4">
             <section>
-                <h1>お問い合わせ</h1>
+                <h1>Google フォームよりお問い合わせください</h1>
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN_qpIG_HXyBMr6nMgsZVsNX1JHyVfLLL9bfm9Y1_AReArDA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
             </section>
         </div>
     </div>
