@@ -7,16 +7,19 @@
         <div class="section" id="section0">
             <section>
                 <video id="myVideo" loop muted data-autoplay>
-                    <source src={{get_template_directory_uri()}}/assets/images/flowers.mp4 type="video/mp4">
-                    <source src={{get_template_directory_uri()}}/assets/images/flowers.webm type="video/webm">
+                    <source src={{get_template_directory_uri()}}/assets/images/top_movie01.mp4 type="video/mp4">
+                    <source src={{get_template_directory_uri()}}/assets/images/top_movie01.webm type="video/webm">
                 </video>
-                <div class="layer">
+                {{--<div class="layer">--}}
                     {{--<h1>キャットシステムズ</h1>--}}
-                    <p>困った！！ねこの手も借りたい。</p>
+                {{--</div>--}}
+
+                <div class="layer">
+                    <p>困った！！ねこの手も借りたい</p>
                     <p>そんな時、共に課題を考え<br>
-                        たすかるシステムづくりで貢献します。
+                        たすかるシステムづくりで貢献します
                     </p>
-                    <small>h,j,k,lでスクロールします。</small>
+                    <small>h←, j↓, k↑, l→</small>
                 </div>
             </section>
         </div>
@@ -113,7 +116,7 @@
                     <h1>加藤 洋一</h1>
                     <p>代表 / ソフトウェアエンジニア</p>
                     <p>1999年からニットデザイナーとして、デザイン、生産、輸出入、販売を<br>
-                        5年間行う。その後、日常を自動化させたいと考え、SEを目指す。<br>
+                        5年間行う。その後、日常を自動化させたいと考え<br>
                         2004年からSEとして、Windows系アプリケーションのパッケージ開発を<br>
                         11年間行う。2016年より"キャットシステムズ”を設立。全業務を担当。
                     </p>
@@ -130,7 +133,7 @@
 
         <div class="section" id="section4">
             <section>
-                <h1>Google フォームよりお問い合わせください</h1>
+                <h1>お問い合わせ</h1>
                 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN_qpIG_HXyBMr6nMgsZVsNX1JHyVfLLL9bfm9Y1_AReArDA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
             </section>
         </div>
