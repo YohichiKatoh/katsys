@@ -14,10 +14,10 @@ class App extends Controller
     public static function title()
     {
         if (is_home()) {
-            if ($home = get_option('page_for_posts', true)) {
-                return get_the_title($home);
-            }
-            return __('福岡のシステム開発は、キャットシステムズ／System development Kat Systems. From Fukuoka, Japan.', 'sage');
+//            if ($home = get_option('page_for_posts', true)) {
+//                return get_the_title($home);
+//            }
+            return __('福岡のシステム開発、キャットシステムズ／System development Kat Systems. From Fukuoka, Japan.', 'sage');
         }
         if (is_archive()) {
             return get_the_archive_title();
