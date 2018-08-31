@@ -5,6 +5,7 @@ dist
 node_modules
 npm-debug.log
 yarn-error.log
+yarn.lock
 vendor
 resources/assets/config-local.json
 .idea/workspace.xml
