@@ -1,4 +1,4 @@
 <div class="page-header">
-  {{--★画像に変更する--}}
-  <h1>{!! App::title() !!}</h1>
+  {{-- <h1>{!! App::title() !!}</h1> --}}
+  <h1><img src="{{get_template_directory_uri()}}/assets/images/top_logo.gif" alt="キャットシステムズ"></h1>
 </div>

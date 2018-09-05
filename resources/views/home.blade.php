@@ -1,17 +1,23 @@
 @extends('layouts.app')
 
 @section('content')
-    @include('partials.page-header')
+    {{--@include('partials.page-header')--}}
 
     <div id="fullpage">
         <div class="section" id="section0">
+            <div class="page-header">
+                <h1><img src="{{get_template_directory_uri()}}/assets/images/top_logo.gif" alt="キャットシステムズ"></h1>
+            </div>
+
             <section>
+                {{--<h1><img src="{{get_template_directory_uri()}}/assets/images/top_logo.gif" alt="キャットシステムズ"></h1>--}}
+
                 <video id="myVideo" loop muted data-autoplay>
                     <source src={{get_template_directory_uri()}}/assets/images/top_movie01.mp4 type="video/mp4">
                     <source src={{get_template_directory_uri()}}/assets/images/top_movie01.webm type="video/webm">
                 </video>
                 {{--<div class="layer">--}}
-                    {{--<h1>キャットシステムズ</h1>--}}
+                {{--<h1>キャットシステムズ</h1>--}}
                 {{--</div>--}}
 
                 <div class="layer">
@@ -134,7 +140,9 @@
         <div class="section" id="section4">
             <section>
                 <h1>お問い合わせ</h1>
-                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN_qpIG_HXyBMr6nMgsZVsNX1JHyVfLLL9bfm9Y1_AReArDA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN_qpIG_HXyBMr6nMgsZVsNX1JHyVfLLL9bfm9Y1_AReArDA/viewform?embedded=true"
+                        width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...
+                </iframe>
             </section>
         </div>
     </div>
