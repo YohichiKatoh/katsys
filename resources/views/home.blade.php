@@ -12,7 +12,7 @@
             <section>
                 {{--<h1><img src="{{get_template_directory_uri()}}/assets/images/top_logo.gif" alt="キャットシステムズ"></h1>--}}
 
-                <video id="myVideo" loop muted data-autoplay>
+                <video id="myVideo" class="d-none d-lg-inline" loop muted data-autoplay>
                     <source src={{get_template_directory_uri()}}/assets/images/top_movie01.mp4 type="video/mp4">
                     <source src={{get_template_directory_uri()}}/assets/images/top_movie01.webm type="video/webm">
                 </video>
@@ -25,7 +25,7 @@
                     <p>そんな時、共に課題を考え<br>
                         たすかるシステムづくりで貢献します
                     </p>
-                    <small>h←, j↓, k↑, l→</small>
+                    <small class="d-none d-lg-inline">h←, j↓, k↑, l→</small>
                 </div>
             </section>
         </div>
@@ -162,6 +162,7 @@
 @endsection
 
 @section('footerinclude')
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.7/jquery.fullpage.min.css">
     <script type="text/javascript"
             src={{get_template_directory_uri()}}/assets/scripts/util/jquery.fullpage.js></script>
