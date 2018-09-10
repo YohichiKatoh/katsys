@@ -48,10 +48,10 @@
 
         <div class="section" id="section2">
             <section>
-                <h1>開発事例</h1>
+                <h1 class="d-none">開発事例一覧</h1>
                 <div class="slide" id="slide1">
                     <article>
-                        <h1>CADパッケージ開発</h1>
+                        <h1>開発事例<br>CADパッケージ開発</h1>
                         <table class="table">
                             <tr>
                                 <td>OS</td>
@@ -73,7 +73,7 @@
                 </div>
                 <div class="slide" id="slide2">
                     <article>
-                        <h1>為替アプリケーション開発/FIXプロトコル</h1>
+                        <h1>開発事例<br>為替アプリケーション開発/FIXプロトコル</h1>
                         <table class="table">
                             <tr>
                                 <td>OS</td>
@@ -92,7 +92,7 @@
                 </div>
                 <div class="slide" id="slide3">
                     <article>
-                        <h1>Webシステム開発</h1>
+                        <h1>開発事例<br>Webシステム開発</h1>
                         <table class="table">
                             <tr>
                                 <td>OS</td>
