@@ -176,7 +176,7 @@
             $(document).ready(function () {
                 //initialising fullpage.js in the jQuery way
                 $('#fullpage').fullpage({
-                    sectionsColor: ['#ff5f45', '#0798ec', '#fc6c7c', '#fec401'],
+                    sectionsColor: ['#ffffff', '#ff5f45', '#0798ec', '#fc6c7c', '#fec401'],
                     navigation: true,
                     slidesNavigation: true,
                 });
