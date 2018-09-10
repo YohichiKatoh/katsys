@@ -41,6 +41,7 @@
   ul {
     font-size: 4vw;
     list-style: none;
+    padding-left: 0;
   }
 
   .table {
@@ -124,13 +125,8 @@
 }
 
 #section2 {
-  .fp-prev {
-    left: 45px;
-    //border-color: transparent rbga(255, 255, 255, 0.5) transparent transparent;
-  }
-
-  .fp-next {
-    right: 45px;
+  .fp-controlArrow {
+    top: 80%;
   }
 }
 
