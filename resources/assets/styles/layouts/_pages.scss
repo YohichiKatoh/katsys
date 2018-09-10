@@ -123,6 +123,27 @@
   }
 }
 
+#section2 {
+  .fp-prev {
+    left: 45px;
+    //border-color: transparent rbga(255, 255, 255, 0.5) transparent transparent;
+  }
+
+  .fp-next {
+    right: 45px;
+  }
+}
+
+#section4 {
+  .iframe-wrap {
+    padding: 0 30px;
+  }
+
+  iframe {
+    width: 80%;
+  }
+}
+
 /* Bottom menu
 * --------------------------------------- */
 #infoMenu li a {
