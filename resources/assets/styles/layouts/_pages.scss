@@ -17,17 +17,22 @@
   //}
 }
 
+// title img
 .page-header {
   h1 {
     //height: 35px;
     //display: none;
     img {
+      //@include media-breakpoint-down(md) {
       position: absolute;
-      left: 10px;
-      top: 10px;
+      //left: 10px;
+      //top: 10px;
+      top: 5%;
+      left: 3%;
       z-index: 4;
       max-width: 300px;
-      height: auto;
+      //height: auto;
+      //}
     }
   }
 }
