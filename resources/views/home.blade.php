@@ -142,7 +142,7 @@
                 <h1>ご連絡はこちらまで</h1>
                 <div class="iframe-wrap">
                     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN_qpIG_HXyBMr6nMgsZVsNX1JHyVfLLL9bfm9Y1_AReArDA/viewform?embedded=true"
-                            width="300" height="450" scrolling="yes" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...
+                            width="220" height="450" scrolling="yes" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...
                     </iframe>
                 </div>
             </section>
